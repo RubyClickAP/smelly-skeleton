@@ -1,6 +1,6 @@
 {
     "name": "theahindle/smelly-skeleton",
-    "description": "Silex/Vagrant skeleton, with ansible provisioning for Nginx/Php5.5/Memcache/Beanstalk using composer/bower/gulp",
+    "description": "Silex/Vagrant/ZurbFoundation skeleton, with ansible provisioning for Nginx/Php5.5/Memcache/Beanstalk using composer/bower/gulp",
     "license": "MIT",
     "type": "project",
     "require": {
