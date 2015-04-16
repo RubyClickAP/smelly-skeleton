@@ -30,6 +30,9 @@
         "psr-0": { "": "src/" }
     },
     "scripts": {
+      "post-create-project-cmd": [
+        "npm install"
+      ]
       "post-install-cmd": [
         "node_modules/bower/bin/bower install",
         "node_modules/gulp/bin/gulp.js copy-foundation"
@@ -38,9 +41,5 @@
         "node_modules/bower/bin/bower install",
         "node_modules/gulp/bin/gulp.js copy-foundation"
       ],
-      "post-create-project-cmd": [
-        "npm install",
-        "composer install"
-      ]
     }
 }
