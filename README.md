@@ -6,6 +6,8 @@ Silex skeleton, with ansible/vagrant with Nginx/Php5.5/Memcache/Zurb Foundation
 * `vagrant up`
 * `open -a "Google Chrome" http://localhost:8888`
 
+### Pushing to your own repo
+If you plan on making changes and pushing to your repo, you'll need to `rm -rf smelly-skeleton/.git` and add your own repo
 
 ## Pictures!
 **From a PC:**
