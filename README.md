@@ -2,7 +2,7 @@
 Silex skeleton, with ansible/vagrant with Nginx/Php5.5/Memcache/Zurb Foundation
 
 ## Installation
-* `composer create-project theahindle/smelly-skeleton:dev-master ./`
+* `composer create-project theahindle/smelly-skeleton:dev-master`
 * `vagrant up`
 * `open -a "Google Chrome" http://localhost:8888`
 
