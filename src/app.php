@@ -1,6 +1,8 @@
 <?php
 /* NameSpaces */
-use Silex\Application;
+// ToDo: Change this to your Application Wrapper
+use SmellySkeleton\Application;
+
 use Silex\Provider\UrlGeneratorServiceProvider;
 use Silex\Provider\ServiceControllerServiceProvider;
 use Silex\Provider\DoctrineServiceProvider;
